@@ -1,0 +1,10 @@
+name: Minigame
+main: com.minecreatr.minigame.Minigame
+version: 0.0.1
+
+commands:
+   minigame:
+      description: Basic command for minigame plugin
+      usage: /<command> [creategame:destroygame:joingame:leavegame]
+      permission: miinigame.minigame
+      permission-message: You don't have Permission
